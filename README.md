@@ -1,5 +1,7 @@
 # Subscription_churn_analysis_and_retention_strategy
-Conversion risk analysis and retention strategies
+Conversion risk analysis and retention strategies 
+
+Dataset: https://www.kaggle.com/code/emineyetm/telco-customer-churn/input
 
 Subscription Churn Analysis & Retention Strategy
 
